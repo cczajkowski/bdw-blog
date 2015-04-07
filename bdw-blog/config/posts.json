@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+       "title":  "The Amazing Things I Have Been Introduced To At BDW",
+       "description": "I can not even believe all of the amazing things I have been introduced to since starting BDW (I probably should have started keeping a list on day 1). The following are just some of my favorite.",
+       "url": "https://medium.com/re-write/the-amazing-things-i-have-been-introduced-at-bdw-e78693275f2a",
+       "guid": "1", 
+       "categories": ["Category 1","Category 2","Category 3","Category 4"],  
+       "author": "Catie Czajkowski",  
+       "date": "January 17, 2015"
+    },
+    {
+       "title":  "iFind your inspiration; the world needs you.",
+       "description": "This morning I listened to Shah Selbe’s talk “Find Your Niche, Help the World.” Selbe asked listeners to think about the many challenges that our world is facing and what we could do to help.",
+       "url": "https://medium.com/re-write/find-your-inspiration-the-world-needs-you-4ae47c74804b",
+       "guid": "2", 
+       "categories": ["Category 1","Category 2","Category 3","Category 4"],  
+       "author": "Catie Czajkowski",  
+       "date": "Jan 24, 2015"
+    }
+  ]
+}
